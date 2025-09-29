@@ -1,0 +1,17 @@
+# Python runtime (ensure you use Python 3.11 for best compatibility)
+# You can enforce via your environment/conda; pip markers shown for reference:
+# python_version >= "3.11"
+
+# --- Core runtime ---
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+pykrige>=1.7
+
+# --- Docs stack ---
+mkdocs>=1.6
+mkdocs-material>=9.5
+mkdocstrings[python]>=0.26
+mkdocs-autorefs>=1.2
+pymdown-extensions>=10.4

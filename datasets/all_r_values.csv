@@ -1,0 +1,66 @@
+Delta_r,r_bar,Treatment,Supplier,Time,Temperature,y_strain
+0.08,0.72,AsBuilt,3D Pro,0,20,Axial Strain: 1%
+0.08,0.78,AsBuilt,3D Pro,0,20,Axial Strain: 2%
+0.08,0.81,AsBuilt,3D Pro,0,20,Axial Strain: 1.5%
+0.02,0.54,4h @ 490C,3D Pro,4,490,Axial Strain: 1.5%
+0,0.56,6h @ 490C,3D Pro,6,490,Axial Strain: 1.5%
+0.03,0.64,6h @ 490C,3D Pro,6,490,Axial Strain: 2%
+0.01,0.53,8h @ 490C,3D Pro,8,490,Axial Strain: 1.5%
+0.3,0.66,AsBuilt,SEAM,0,20,Axial Strain: 1%
+0.34,0.64,AsBuilt,SEAM,0,20,Axial Strain: 1.5%
+0.37,0.58,AsBuilt,SEAM,0,20,Axial Strain: 2%
+0,0.52,6h @ 490C,SEAM,6,490,Axial Strain: 1.5%
+0.09,0.55,6h @ 525C,SEAM,6,525,Axial Strain: 1.5%
+0.23,0.6,6h @ 525C,SEAM,6,525,Axial Strain: 2%
+0.1,0.66,8h @ 540C,SEAM,8,540,Axial Strain: 1.5%
+0.1,0.68,8h @ 540C,SEAM,8,540,Axial Strain: 2%
+0.11,0.69,8h @ 540C,SEAM,8,540,Axial Strain: 2.5%
+0.11,0.69,8h @ 540C,SEAM,8,540,Axial Strain: 3%
+0.12,0.69,8h @ 540C,SEAM,8,540,Axial Strain: 3.5%
+0.25,0.63,4h @ 540C,SEAM,4,540,Axial Strain: 1.5%
+0.39,0.72,4h @ 540C,SEAM,4,540,Axial Strain: 2%
+0.06,0.56,6h @ 540C,SEAM,6,540,Axial Strain: 1.5%
+0.1,0.65,6h @ 540C,SEAM,6,540,Axial Strain: 2%
+0.13,0.72,6h @ 540C,SEAM,6,540,Axial Strain: 2.5%
+-0.01,0.59,4h @ 525C,SEAM,4,525,Axial Strain: 1.5%
+0.16,0.59,4h @ 525C,SEAM,4,525,Axial Strain: 2%
+0.01,0.62,8h @ 525C,SEAM,8,525,Axial Strain: 1.5%
+0.04,0.71,8h @ 525C,SEAM,8,525,Axial Strain: 2%
+0.07,0.78,8h @ 525C,SEAM,8,525,Axial Strain: 2.5%
+0.11,0.61,6h @ 460C,SEAM,6,460,Axial Strain: 1.5%
+0.31,0.75,6h @ 460C,SEAM,6,460,Axial Strain: 2%
+-0.01,0.59,8h @ 460C,SEAM,8,460,Axial Strain: 1.5%
+0.16,0.59,8h @ 460C,SEAM,8,460,Axial Strain: 2%
+0.01,0.63,12h @ 460C,SEAM,12,460,Axial Strain: 1.5%
+0.05,0.57,2h @ 600C,SEAM,2,600,Axial Strain: 1.5%
+0.04,0.63,2h @ 600C,SEAM,2,600,Axial Strain: 2%
+0.05,0.69,2h @ 600C,SEAM,2,600,Axial Strain: 2.5%
+0.06,0.73,2h @ 600C,SEAM,2,600,Axial Strain: 3%
+0.07,0.77,2h @ 600C,SEAM,2,600,Axial Strain: 3.5%
+0.08,0.8,2h @ 600C,SEAM,2,600,Axial Strain: 4%
+0.09,0.83,2h @ 600C,SEAM,2,600,Axial Strain: 4.5%
+0.22,0.48,4h @ 600C,SEAM,4,600,Axial Strain: 1%
+0.25,0.6,4h @ 600C,SEAM,4,600,Axial Strain: 1.5%
+0.26,0.68,4h @ 600C,SEAM,4,600,Axial Strain: 2%
+0.27,0.73,4h @ 600C,SEAM,4,600,Axial Strain: 2.5%
+0.27,0.77,4h @ 600C,SEAM,4,600,Axial Strain: 3%
+0.26,0.8,4h @ 600C,SEAM,4,600,Axial Strain: 3.5%
+0.26,0.82,4h @ 600C,SEAM,4,600,Axial Strain: 4%
+0.26,0.84,4h @ 600C,SEAM,4,600,Axial Strain: 4.5%
+0.25,0.85,4h @ 600C,SEAM,4,600,Axial Strain: 5%
+0.25,0.86,4h @ 600C,SEAM,4,600,Axial Strain: 5.5%
+0.25,0.87,4h @ 600C,SEAM,4,600,Axial Strain: 6%
+0.03,0.48,6h @ 600C,SEAM,6,600,Axial Strain: 1%
+0.06,0.61,6h @ 600C,SEAM,6,600,Axial Strain: 1.5%
+0.09,0.7,6h @ 600C,SEAM,6,600,Axial Strain: 2%
+0.11,0.77,6h @ 600C,SEAM,6,600,Axial Strain: 2.5%
+0.13,0.82,6h @ 600C,SEAM,6,600,Axial Strain: 3%
+0.14,0.86,6h @ 600C,SEAM,6,600,Axial Strain: 3.5%
+0.16,0.89,6h @ 600C,SEAM,6,600,Axial Strain: 4%
+0.17,0.92,6h @ 600C,SEAM,6,600,Axial Strain: 4.5%
+0.18,0.94,6h @ 600C,SEAM,6,600,Axial Strain: 5%
+0.19,0.96,6h @ 600C,SEAM,6,600,Axial Strain: 5.5%
+0.2,0.97,6h @ 600C,SEAM,6,600,Axial Strain: 6%
+0.2,0.98,6h @ 600C,SEAM,6,600,Axial Strain: 6.5%
+0.1,0.58,4h @ 490C,SEAM,4,490,Axial Strain: 1.5%
+0.07,0.56,8h @ 490C,SEAM,8,490,Axial Strain: 1.5%

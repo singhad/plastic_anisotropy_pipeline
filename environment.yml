@@ -1,0 +1,23 @@
+name: plastic_anisotropy_pipeline
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # --- Core runtime ---
+  - python=3.11
+  - numpy>=1.26
+  - pandas>=2.1
+  - scipy>=1.11
+  - matplotlib>=3.8
+  - pykrige>=1.7
+
+  # --- Build tools ---
+  - pip
+
+  # --- Docs stack ---
+  - pip:
+      - mkdocs>=1.6
+      - mkdocs-material>=9.5
+      - mkdocstrings[python]>=0.26
+      - mkdocs-autorefs>=1.2
+      - pymdown-extensions>=10.4
